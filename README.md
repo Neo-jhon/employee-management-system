@@ -4,6 +4,10 @@ A modern Employee Management System built using **React.js** that allows adminis
 
 ---
 
+## 🌐 Live Demo
+
+[🚀 View Live Website](https://employee-management-system-one-wheat.vercel.app)
+
 ## ✨ Features
 
 - 🔐 Admin Authentication
