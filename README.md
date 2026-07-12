@@ -3,6 +3,12 @@
 A modern Employee Management System built using **React.js** that allows administrators to assign tasks and employees to manage, update, and track their work efficiently.
 
 ---
+# How to use 
+Due to limited number of registerd users you have to login through certain id and passwords 
+j@j.com for emoloyee
+admin@me.com for adminDashboard
+password 123 
+---
 
 ## 🌐 Live Demo
 
@@ -142,6 +148,10 @@ npm run dev
 - 💼 B.Tech AI & ML Student
 - 🌐 React Developer
 - 🤖 AI Enthusiast
+
+---
+
+
 
 ---
 
